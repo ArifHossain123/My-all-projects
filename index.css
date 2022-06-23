@@ -13,8 +13,9 @@ section {
 }
 
 .left {
-    width: 70%;
+    width: 60%;
     padding: 5%;
+    background-color: rgba(207, 216, 219, 0.274);
 }
 
 .link-button {
@@ -27,6 +28,25 @@ section {
 }
 
 .right {
-    width: 30%;
+    width: 40%;
     padding-top: 7%;
+    background-color: rgba(207, 216, 219, 0.274);
+}
+
+.Big-Dream {
+    background-color: rgba(165, 42, 42, 0.534);
+    background-image: url(Elipes.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+.leftTwo {
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 50%;
+}
+
+.rightTwo {
+    width: 50%;
+
 }
