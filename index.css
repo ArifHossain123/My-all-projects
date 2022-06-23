@@ -27,6 +27,11 @@ section {
     border-radius: 7px;
 }
 
+.link-button:hover {
+
+    color: rgb(255, 255, 255);
+}
+
 .right {
     width: 40%;
     padding-top: 7%;
@@ -48,5 +53,18 @@ section {
 
 .rightTwo {
     width: 50%;
+    padding: 10px;
+}
 
+.Resume {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 8px 8px;
+    color: rgba(255, 255, 255, 0.774);
+    font-weight: 700;
+    border-radius: 7px;
+}
+
+.Resume:hover {
+    color: white;
 }
